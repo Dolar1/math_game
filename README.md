@@ -1,6 +1,9 @@
 # jayaho
 
-A new Flutter project.
+A Math Game Made In Flutter.
+
+## Screenshots
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_01.png)
 
 ## Getting Started
 
