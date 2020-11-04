@@ -3,7 +3,15 @@
 A Math Game Made In Flutter.
 
 ## Screenshots
-![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_01.png =250x)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_01.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_02.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_03.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_04.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_05.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_06.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_07.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_08.png)
+
 
 ## Getting Started
 
