@@ -3,7 +3,7 @@
 A Math Game Made In Flutter.
 
 ## Screenshots
-![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_01.png)
+![ScreenShot](https://raw.github.com/Dolar1/math_game/main/images/flutter_01.png ==250x)
 
 ## Getting Started
 
